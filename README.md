@@ -1,2 +1,2 @@
-# Famous-SP-Functions
-This Project includes some useful real-time signal processing Functions. I extracted this functions from one of my projects.
+# Parallel Implementation of DSP on CPU
+This project aims to accelerate popular Digital Signal Processing (DSP) functions, such as FFT, on CPU platforms. I used OpenMP for parallelizing loops.  
